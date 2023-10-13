@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Nicholas Callen" />
         <p className="description">
-          Testing in <code>pages/index.js</code>
+          Testing <code>pages/index.js</code>
         </p>
       </main>
 
